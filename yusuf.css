@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    font-family:  sans-serif;
+    font-weight: bolder;
+}
+
+p::first-letter{
+    
+    font-size: 30px;
+}
+
+.a{
+    color: white;
+    background-color: black;
+
+   
+     
+}
+
+
+
+
+.b{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+i{
+    color: white;
+}
+
+.ans{
+    color: white;
+    background-color: grey;
+    text-align: left;
+    padding: 25px 30px;
+}
+
+
+
+
+
