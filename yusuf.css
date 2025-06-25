@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
 body{
@@ -38,11 +40,26 @@ i{
 }
 
 .ans{
-    color: white;
-    background-color: grey;
+    color: white;  
+    margin: 0;
+    box-sizing: border-box;
     text-align: left;
-    padding: 25px 30px;
+    background-color: gray;
+    padding: 20px 25px;
+  
+    
+
+   
 }
+
+li{
+    color: white;
+    display: inline;
+   
+}
+
+
+
 
 
 
